@@ -1,6 +1,6 @@
 # CNN-LSS-Detection
 
-> Nerve Root Compression Analysis to Find Lumbar Spine Stenosis on MRI Using CNN — a custom convolutional neural network for automated four-class grading of foraminal lumbar spine stenosis (Normal / Mild / Moderate / Severe) from axial-view MRI images. Achieves **97.71% accuracy (Single-ROI)** and **97.01% accuracy (Multi-ROI)** on the augmented 12.5k dataset, outperforming all compared state-of-the-art methods.
+> Nerve Root Compression Analysis to Find Lumbar Spine Stenosis on MRI Using CNN, a custom convolutional neural network for automated four-class grading of foraminal lumbar spine stenosis (Normal / Mild / Moderate / Severe) from axial-view MRI images.
 
 ---
 
